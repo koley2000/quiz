@@ -44,7 +44,7 @@ This is a backend project built with **Spring Boot** that provides a RESTful API
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo/quiz.git
+   git clone https://github.com/koley2000/quiz.git
    ```
 2. Navigate to the project directory
 
